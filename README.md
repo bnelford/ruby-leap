@@ -1,3 +1,5 @@
+[![Ruby Testing Workflow](https://github.com/bnelford/ruby-leap/actions/workflows/ruby.yml/badge.svg)](https://github.com/bnelford/ruby-leap/actions/workflows/ruby.yml)
+
 # Leap
 
 Given a year, report if it is a leap year.
